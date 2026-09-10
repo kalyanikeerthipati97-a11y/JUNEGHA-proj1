@@ -8,5 +8,5 @@ jobs:
         run: echo "Hello, World!"
       - name: print GoodBye
         run: |
-        echo "Hello, World!"
-        echo "workflow executed successfully!"
+          echo "Hello, World!"
+          echo "workflow executed successfully!"
